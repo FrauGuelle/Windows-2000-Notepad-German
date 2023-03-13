@@ -7,8 +7,8 @@ Windows 2000 Notepad German as app for Windows 10 and 11
 
 
 # PLEASE INSTALL FIRST:
-NOTEPAD.CER in the storage for secure certificates                                                                                                            
-WINDOWS 2000 Notepad.cer in the storage for secure certificates
+NOTEPAD.CER in the storage for trusted certificates on current mashine(system-wide)                                                                                                            
+WINDOWS 2000 Notepad.cer in the trusted for secure certificates on current mashine(system-wide)
 
 ## IMPORTANT:
 
